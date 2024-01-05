@@ -7,7 +7,23 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "Weather1.0",
-    "slug": "Weather1.0"
+    "name": "react_native_job_seeker",
+    "slug": "react_native_job_seeker",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "76433a7a-ee83-4caf-9fe7-2c289882c962"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/76433a7a-ee83-4caf-9fe7-2c289882c962"
+    },
+    "android": {},
+    "ios": {}
   }
 }
